@@ -1,3 +1,7 @@
 saved_pages
 output
 *.env
+*.mod
+*.sum
+config.bat
+node_modules
